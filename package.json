@@ -1,0 +1,14 @@
+{
+  "name": "vitest-nested-model",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Minh Ha",
+  "license": "MIT",
+  "description": "test vitest with nested model",
+  "devDependencies": {
+    "vite": "^5.4.11",
+    "vitest": "^2.1.5"
+  }
+}
