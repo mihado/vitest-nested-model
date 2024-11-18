@@ -8,6 +8,7 @@
   "license": "MIT",
   "description": "test vitest with nested model",
   "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.3.1",
     "vite": "^5.4.11",
     "vitest": "^2.1.5"
   }
